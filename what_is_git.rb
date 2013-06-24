@@ -4,6 +4,6 @@ Class WhatIsGit
   end
 
   def show
-    puts 'Git is easy if you understand the basis.'
+    puts 'if you understand the basic, Git is easy.'
   end
 end
